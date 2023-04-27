@@ -1,0 +1,1 @@
+# frontmentor-nft-preview-card-component
